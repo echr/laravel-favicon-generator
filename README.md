@@ -7,7 +7,7 @@
 You can install this package via composer using this command:
 
 ```bash
-composer require coderello/laravel-favicon-generator
+composer require echr/laravel-favicon-generator
 ```
 
 The package will automatically register itself.

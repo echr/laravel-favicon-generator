@@ -1,5 +1,5 @@
 {
-    "name": "coderello/laravel-favicon-generator",
+    "name": "echr/laravel-favicon-generator",
     "description": "Laravel Favicon Generator",
     "keywords": ["laravel", "favicon", "generator"],
     "type": "library",
