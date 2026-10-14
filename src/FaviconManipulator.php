@@ -53,7 +53,7 @@ class FaviconManipulator implements Renderable
             $this->disk()->path($this->iconsPath())
         );
 
-        $this->disk()->createDir($this->iconsPath());
+        $this->disk()->makeDirectory($this->iconsPath());
 
         return $this;
     }

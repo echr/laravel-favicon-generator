@@ -2,6 +2,12 @@
 
 <p align="center"><b>Laravel Favicon Generator</b> provides an easy way to generate a package of icons (for different platforms and resolutions) and include them into your template. This packages uses <a href="http://realfavicongenerator.net">realfavicongenerator.net</a> under the hood.</p>
 
+## Compatibility
+
+This package supports Laravel 9 and Laravel 10.
+
+Laravel 9 requires PHP 8.0.2 or newer. Laravel 10 requires PHP 8.1 or newer.
+
 ## Installation
 
 You can install this package via composer using this command:
