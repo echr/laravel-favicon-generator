@@ -6,7 +6,7 @@
     "license": "MIT",
     "require": {
         "laravel/framework": "^9.0|^10.0",
-        "spatie/temporary-directory": "^1.1",
+        "spatie/temporary-directory": "^2.0",
         "guzzlehttp/guzzle": "^7.2",
         "ext-zip": "*",
         "ext-json": "*"
